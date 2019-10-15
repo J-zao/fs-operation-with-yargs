@@ -1,0 +1,3 @@
+John, Male, 128000, TX
+Smith, Female, 120000,AL
+Joe, Male, 98000,NY
